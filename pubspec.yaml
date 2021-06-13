@@ -7,7 +7,7 @@ environment:
   sdk: ">=1.19.0 <3.0.0"
 dependencies:
   oauth2: ^1.0.0
-  owl: ^0.2.1
+  owl: ^0.4.0
 dev_dependencies:
   build_runner: ^0.3.0
   owl_codegen: ^0.2.1
